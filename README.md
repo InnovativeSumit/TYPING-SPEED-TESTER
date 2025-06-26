@@ -11,17 +11,14 @@ Here's a preview of the typing speed tester:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/your-screenshot-url.png" alt="Typing Speed Tester Screenshot" width="600"/>
-    </td>
-    <td>
-  <img src="https://github.com/user-attachments/assets/your-screenshot-url.png" alt="Typing Speed Tester Screenshot" width="600"/>
+      <img src="https://github.com/user-attachments/assets/704fd8dd-e69a-4a45-a63f-21ce8a2a1ff2" alt="Typing Speed Tester Screenshot" width="600"/>
     </td>
   </tr>
 </table>
 
 ## 🚀 Live Demo
 
-🔗 Try it live now: [Typing Speed Tester]()
+🔗 Try it live now: [Typing Speed Tester](https://innovativesumit.github.io/TYPING-SPEED-TESTER/)
 
 
 ## 🧩 Key Features
